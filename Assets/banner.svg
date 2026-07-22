@@ -1,0 +1,76 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="50%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#0a1420"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#20BEFF"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+
+  <!-- neural network node overlay -->
+  <g stroke="#20BEFF" stroke-opacity="0.22" stroke-width="1">
+    <line x1="40" y1="40" x2="150" y2="90"/>
+    <line x1="150" y1="90" x2="90" y2="180"/>
+    <line x1="150" y1="90" x2="250" y2="60"/>
+    <line x1="250" y1="60" x2="320" y2="140"/>
+    <line x1="90" y1="180" x2="200" y2="220"/>
+    <line x1="850" y1="50" x2="930" y2="110"/>
+    <line x1="930" y1="110" x2="880" y2="200"/>
+    <line x1="850" y1="50" x2="760" y2="90"/>
+    <line x1="760" y1="90" x2="700" y2="170"/>
+    <line x1="880" y1="200" x2="960" y2="230"/>
+  </g>
+  <g fill="#3B82F6" fill-opacity="0.5">
+    <circle cx="40" cy="40" r="3"/>
+    <circle cx="150" cy="90" r="3.5"/>
+    <circle cx="90" cy="180" r="3"/>
+    <circle cx="250" cy="60" r="3"/>
+    <circle cx="320" cy="140" r="3.5"/>
+    <circle cx="200" cy="220" r="3"/>
+    <circle cx="850" cy="50" r="3"/>
+    <circle cx="930" cy="110" r="3.5"/>
+    <circle cx="880" cy="200" r="3"/>
+    <circle cx="760" cy="90" r="3"/>
+    <circle cx="700" cy="170" r="3.5"/>
+    <circle cx="960" cy="230" r="3"/>
+  </g>
+
+  <!-- binary rain accents -->
+  <g font-family="Consolas, monospace" font-size="11" fill="#1e3a5f" fill-opacity="0.6">
+    <text x="15" y="230">01001</text>
+    <text x="900" y="30">10110</text>
+    <text x="15" y="30">10101</text>
+    <text x="905" y="235">01100</text>
+  </g>
+
+  <!-- title block -->
+  <text x="500" y="115" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold"
+        font-size="42" fill="url(#titleGrad)" filter="url(#glow)" letter-spacing="4">
+    MUHAMMAD HUZAIFA KHAN
+  </text>
+
+  <text x="500" y="155" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="17" fill="#8fa8c4" letter-spacing="1.5">
+    Building Intelligent Systems, One Project at a Time
+  </text>
+
+  <line x1="260" y1="175" x2="740" y2="175" stroke="#20BEFF" stroke-opacity="0.4" stroke-width="1"/>
+
+  <text x="500" y="202" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="13" fill="#5a7290" letter-spacing="1">
+    Computer Science Student · Aspiring Machine Learning Engineer
+  </text>
+</svg>

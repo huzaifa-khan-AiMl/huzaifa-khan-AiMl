@@ -1,0 +1,67 @@
+<svg width="720" height="330" viewBox="0 0 720 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#20BEFF"/>
+    </linearGradient>
+    <style>
+      .label { font-family: Consolas, monospace; font-size: 14px; fill: #c7d5e6; }
+      .pct   { font-family: Consolas, monospace; font-size: 13px; fill: #6ee7ff; }
+      .track { fill: #16202e; }
+    </style>
+  </defs>
+  <rect width="720" height="330" fill="#0a0e17"/>
+  <text x="24" y="34" font-family="Consolas, monospace" font-size="16" fill="#3B82F6" font-weight="bold">$ cat roadmap.log</text>
+  <line x1="24" y1="46" x2="696" y2="46" stroke="#1e3a5f" stroke-width="1"/>
+
+  <!-- rows: label, pct, track width scaled -->
+  <g transform="translate(24,72)">
+    <!-- Python 100% -->
+    <text class="label" y="0">Python</text>
+    <rect class="track" x="180" y="-14" width="420" height="16" rx="3"/>
+    <rect x="180" y="-14" width="420" height="16" rx="3" fill="url(#barFill)"/>
+    <text class="pct" x="610" y="0">100%</text>
+
+    <!-- Pandas 100% -->
+    <text class="label" y="38">Pandas</text>
+    <rect class="track" x="180" y="24" width="420" height="16" rx="3"/>
+    <rect x="180" y="24" width="420" height="16" rx="3" fill="url(#barFill)"/>
+    <text class="pct" x="610" y="38">100%</text>
+
+    <!-- EDA 100% -->
+    <text class="label" y="76">EDA</text>
+    <rect class="track" x="180" y="62" width="420" height="16" rx="3"/>
+    <rect x="180" y="62" width="420" height="16" rx="3" fill="url(#barFill)"/>
+    <text class="pct" x="610" y="76">100%</text>
+
+    <!-- Feature Engineering 90% -->
+    <text class="label" y="114">Feature Engineering</text>
+    <rect class="track" x="180" y="100" width="420" height="16" rx="3"/>
+    <rect x="180" y="100" width="378" height="16" rx="3" fill="url(#barFill)"/>
+    <text class="pct" x="610" y="114">90%</text>
+
+    <!-- SQL 70% -->
+    <text class="label" y="152">SQL</text>
+    <rect class="track" x="180" y="138" width="420" height="16" rx="3"/>
+    <rect x="180" y="138" width="294" height="16" rx="3" fill="url(#barFill)"/>
+    <text class="pct" x="610" y="152">70%</text>
+
+    <!-- Machine Learning 5% (in progress) -->
+    <text class="label" y="190">Machine Learning</text>
+    <rect class="track" x="180" y="176" width="420" height="16" rx="3"/>
+    <rect x="180" y="176" width="21" height="16" rx="3" fill="url(#barFill)"/>
+    <text class="pct" x="610" y="190">starting</text>
+
+    <!-- Deployment 0% -->
+    <text class="label" y="228">Deployment</text>
+    <rect class="track" x="180" y="214" width="420" height="16" rx="3"/>
+    <text class="pct" x="610" y="228">queued</text>
+
+    <!-- Cloud & MLOps 0% -->
+    <text class="label" y="266">Cloud &amp; MLOps</text>
+    <rect class="track" x="180" y="252" width="420" height="16" rx="3"/>
+    <text class="pct" x="610" y="266">queued</text>
+  </g>
+
+  <text x="24" y="318" font-family="Consolas, monospace" font-size="12" fill="#5a7290">$ _</text>
+</svg>
