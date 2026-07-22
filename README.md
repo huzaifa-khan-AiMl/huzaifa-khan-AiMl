@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Muhammad Huzaifa Khan — Building Intelligent Systems, One Project at a Time"/>
+<img src="./Assets/banner.svg" width="100%" alt="Muhammad Huzaifa Khan — Building Intelligent Systems, One Project at a Time"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 💻 Terminal
 
@@ -25,7 +25,7 @@
 
 > **Note on the username above:** the typing widget is generated from a URL — it isn't reading your live shell — but the `void` handle mirrors the real WSL2 hostname on your Omen 16 setup, so it stays true to your actual environment rather than being a generic placeholder.
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 🧠 About Me
 
@@ -49,15 +49,15 @@ Every project on this profile follows the same rules:
 - Learn fundamentals before frameworks
 - Stay consistent — one step every day
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 📈 Roadmap
 
 <div align="center">
-<img src="./assets/roadmap.svg" width="100%"/>
+<img src="./Assets/roadmap.svg" width="100%"/>
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 🛠 Tech Stack
 
@@ -80,7 +80,7 @@ Every project on this profile follows the same rules:
 **Currently learning:** SQL · Feature Engineering · Machine Learning
 **Up next:** Scikit-Learn · FastAPI · Docker · MLflow · AWS
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 📂 Featured Projects
 
@@ -119,7 +119,7 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 🎯 Current Focus
 
@@ -128,7 +128,7 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 - Machine Learning foundations
 - Growing this portfolio
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -147,7 +147,7 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 <img src="https://komarev.com/ghpvc/?username=huzaifa-khan-AiMl&label=Profile+Views&color=20BEFF&style=flat" alt="Profile views"/>
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -161,7 +161,7 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 
 > This image won't appear until the **"generate snake animation"** workflow (in `.github/workflows/snake.yml`) has run at least once — it needs Actions enabled and one push to `main` to fire. See the setup steps below.
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 ## ⚔️ Terminal Sigil
 
@@ -184,7 +184,7 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
      [ compile · run · learn ]
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./Assets/divider.svg" width="100%"/>
 
 <div align="center">
 
