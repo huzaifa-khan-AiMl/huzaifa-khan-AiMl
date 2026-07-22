@@ -9,7 +9,6 @@
 <a href="https://www.kaggle.com/huzaifakhan200"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/huzaifa-khan-AiMl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<sub>⚠️ GitHub strips <code>target="_blank"</code> from README links for security — clicking these opens in the same tab. That's a platform-wide limitation, not something fixable from Markdown.</sub>
 
 </div>
 
@@ -23,7 +22,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=20BEFF&background=0A0E17&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=170&lines=huzaifa%40void%3A~%24+whoami;Muhammad+Huzaifa+Khan;huzaifa%40void%3A~%24+current_focus;SQL+-%3E+Feature+Engineering+-%3E+ML;huzaifa%40void%3A~%24+philosophy;Understanding+before+Implementation." alt="Terminal typing animation"/>
 </div>
 
-> **Note on the username above:** the typing widget is generated from a URL — it isn't reading your live shell — but the `void` handle mirrors the real WSL2 hostname on your Omen 16 setup, so it stays true to your actual environment rather than being a generic placeholder.
 
 <img src="./Assets/divider.svg" width="100%"/>
 
@@ -141,7 +139,6 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-khan-AiMl&theme=tokyonight&hide_border=true&background=0A0E17"/>
 </div>
 
-> **About the streak showing 0:** these two widgets pull directly from GitHub's public contribution API using the **exact** casing `huzaifa-khan-AiMl` (GitHub usernames are case-insensitive for login, but these third-party widgets are not always forgiving of casing/caching — using one consistent casing everywhere fixes most zero-streak bugs). If it's still 0 after this, the two likely causes are: (1) contributions are private and "Include private contributions" isn't enabled in your GitHub profile settings, or (2) the streak-stats service's cache hasn't refreshed yet (it usually catches up within 24h).
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=huzaifa-khan-AiMl&label=Profile+Views&color=20BEFF&style=flat" alt="Profile views"/>
@@ -159,13 +156,11 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 </picture>
 </div>
 
-> This image won't appear until the **"generate snake animation"** workflow (in `.github/workflows/snake.yml`) has run at least once — it needs Actions enabled and one push to `main` to fire. See the setup steps below.
 
 <img src="./Assets/divider.svg" width="100%"/>
 
-## ⚔️ Terminal Sigil
+## ⚔️ Terminal Signal
 
-*An original mark for the profile — not a copyrighted character, just terminal-style ASCII.*
 
 ```
               ▲
