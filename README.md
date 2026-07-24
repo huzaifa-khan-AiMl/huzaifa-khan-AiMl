@@ -78,42 +78,19 @@ Every project on this profile follows the same rules:
 
 <img src="./Assets/divider.svg" width="100%"/>
 
-## 📂 Featured Projects
+## 📌 Repositories
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📊 Used Cars Market Analysis
-Professional EDA project covering:
-- Data cleaning
-- Feature engineering
-- Statistical analysis
-- Business insights
+<a href="https://github.com/huzaifa-khan-AiMl/Used-Car-Market-Analysis-with-Python"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Used-Car-Market-Analysis-with-Python&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
+<a href="https://github.com/huzaifa-khan-AiMl/Web-Scraper-Using-Python"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Web-Scraper-Using-Python&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/huzaifa-khan-AiMl/Automated-File-Organizer-using-Python"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Automated-File-Organizer-using-Python&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
+<a href="https://github.com/huzaifa-khan-AiMl/Python_LeetCode_Problems"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Python_LeetCode_Problems&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
 
-### 🕸️ Web Scraper
-Python automation with BeautifulSoup — extracts structured data and exports to CSV.
+<a href="https://github.com/huzaifa-khan-AiMl/SQL_LeetCode_Problems"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=SQL_LeetCode_Problems&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗂️ File Organizer
-Script that automatically sorts files into folders by extension.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 LeetCode Journey
-Every solution documents pattern recognition, algorithm choice, and time/space complexity — not just the answer.
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="./Assets/divider.svg" width="100%"/>
 
@@ -156,12 +133,6 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 <img src="./Assets/divider.svg" width="100%"/>
 
 <div align="center">
-
-### huzaifa@void:~$ ls repositories/
-
-📁 used-car-market-analysis · 📁 web-scraper · 📁 file-organizer · 📁 leetcode-python
-
-<br/>
 
 **"Understanding before Implementation. Curiosity before Completion."**
 
