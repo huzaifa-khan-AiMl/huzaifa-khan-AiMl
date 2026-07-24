@@ -9,19 +9,9 @@
 <a href="https://www.kaggle.com/huzaifakhan200"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/huzaifa-khan-AiMl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-
 </div>
 
 <br/>
-
-<img src="./Assets/divider.svg" width="100%"/>
-
-## 💻 Terminal
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=20BEFF&background=0A0E17&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=170&lines=huzaifa%40void%3A~%24+whoami;Muhammad+Huzaifa+Khan;huzaifa%40void%3A~%24+current_focus;SQL+-%3E+Feature+Engineering+-%3E+ML;huzaifa%40void%3A~%24+philosophy;Understanding+before+Implementation." alt="Terminal typing animation"/>
-</div>
-
 
 <img src="./Assets/divider.svg" width="100%"/>
 
@@ -46,6 +36,14 @@ Every project on this profile follows the same rules:
 - Build projects instead of collecting certificates
 - Learn fundamentals before frameworks
 - Stay consistent — one step every day
+
+<img src="./Assets/divider.svg" width="100%"/>
+
+## 💻 Terminal
+
+<div align="center">
+<img src="./Assets/terminal-sigil.svg" width="100%"/>
+</div>
 
 <img src="./Assets/divider.svg" width="100%"/>
 
@@ -139,7 +137,6 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-khan-AiMl&theme=tokyonight&hide_border=true&background=0A0E17"/>
 </div>
 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=huzaifa-khan-AiMl&label=Profile+Views&color=20BEFF&style=flat" alt="Profile views"/>
 </div>
@@ -155,29 +152,6 @@ Every solution documents pattern recognition, algorithm choice, and time/space c
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
-
-<img src="./Assets/divider.svg" width="100%"/>
-
-## ⚔️ Terminal Signal
-
-
-```
-              ▲
-             ╱ ╲
-            ╱   ╲
-           ╱ ┌─┐ ╲
-          ╱  │0│  ╲
-         ╱   │1│   ╲
-    ════╪════└─┘════╪════
-         ╲         ╱
-          ╲       ╱
-           ╲     ╱
-            ╲   ╱
-             ╲ ╱
-              ▼
-     [ compile · run · learn ]
-```
 
 <img src="./Assets/divider.svg" width="100%"/>
 
