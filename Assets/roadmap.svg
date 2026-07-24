@@ -1,0 +1,66 @@
+<svg width="780" height="420" viewBox="0 0 780 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#20BEFF"/>
+    </linearGradient>
+    <linearGradient id="barFillLow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2b4d75"/>
+      <stop offset="100%" stop-color="#3d6a9e"/>
+    </linearGradient>
+    <style>
+      .label { font-family: 'Fira Code', Consolas, monospace; font-size: 14.5px; fill: #cbd9ea; }
+      .pct   { font-family: 'Fira Code', Consolas, monospace; font-size: 13px; fill: #6ee7ff; }
+      .track { fill: #131d2b; }
+    </style>
+  </defs>
+
+  <rect width="780" height="420" rx="8" fill="#0a0e17"/>
+  <rect x="0.5" y="0.5" width="779" height="419" rx="7.5" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+
+  <text x="26" y="38" font-family="'Fira Code', Consolas, monospace" font-size="16" fill="#20BEFF" font-weight="bold">$ cat roadmap.log</text>
+  <line x1="26" y1="52" x2="754" y2="52" stroke="#1e3a5f" stroke-width="1"/>
+
+  <!-- 8 rows, 42px apart, starting at 82, ending 418, fits inside 420 with margin -->
+  <g transform="translate(26,82)">
+    <text class="label" y="0">Python</text>
+    <rect class="track" x="210" y="-14" width="430" height="17" rx="4"/>
+    <rect x="210" y="-14" width="430" height="17" rx="4" fill="url(#barFill)"/>
+    <text class="pct" x="654" y="0">100%</text>
+
+    <text class="label" y="42">Pandas</text>
+    <rect class="track" x="210" y="28" width="430" height="17" rx="4"/>
+    <rect x="210" y="28" width="430" height="17" rx="4" fill="url(#barFill)"/>
+    <text class="pct" x="654" y="42">100%</text>
+
+    <text class="label" y="84">EDA</text>
+    <rect class="track" x="210" y="70" width="430" height="17" rx="4"/>
+    <rect x="210" y="70" width="430" height="17" rx="4" fill="url(#barFill)"/>
+    <text class="pct" x="654" y="84">100%</text>
+
+    <text class="label" y="126">Feature Engineering</text>
+    <rect class="track" x="210" y="112" width="430" height="17" rx="4"/>
+    <rect x="210" y="112" width="387" height="17" rx="4" fill="url(#barFill)"/>
+    <text class="pct" x="654" y="126">90%</text>
+
+    <text class="label" y="168">SQL</text>
+    <rect class="track" x="210" y="154" width="430" height="17" rx="4"/>
+    <rect x="210" y="154" width="301" height="17" rx="4" fill="url(#barFill)"/>
+    <text class="pct" x="654" y="168">70%</text>
+
+    <text class="label" y="210">Machine Learning</text>
+    <rect class="track" x="210" y="196" width="430" height="17" rx="4"/>
+    <rect x="210" y="196" width="22" height="17" rx="4" fill="url(#barFillLow)"/>
+    <text class="pct" x="654" y="210">starting</text>
+
+    <text class="label" y="252">Deployment</text>
+    <rect class="track" x="210" y="238" width="430" height="17" rx="4"/>
+    <text class="pct" x="654" y="252">queued</text>
+
+    <text class="label" y="294">Cloud &amp; MLOps</text>
+    <rect class="track" x="210" y="280" width="430" height="17" rx="4"/>
+    <text class="pct" x="654" y="294">queued</text>
+  </g>
+
+  <text x="26" y="404" font-family="'Fira Code', Consolas, monospace" font-size="12.5" fill="#4a6280">$ _</text>
+</svg>
