@@ -1,141 +1,104 @@
-<div align="center">
+<h1 align="center">Huzaifa Khan</h1>
 
-<img src="./Assets/banner.svg" width="100%" alt="Muhammad Huzaifa Khan — Building Intelligent Systems, One Project at a Time"/>
+<p align="center">
+Computer Science student building toward <b>Machine Learning Engineering</b> through a deliberate foundation in <b>data analytics, data engineering, and statistical thinking</b>.
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-khan-aiml/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/huzaifakhan200"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://leetcode.com/u/Huzaifa_Khan_00/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+</p>
 
-<a href="mailto:greatfeelings2000b@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-huzaifa-khan-aiml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/huzaifakhan200"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://github.com/huzaifa-khan-AiMl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+---
 
-</div>
+### About
 
-<br/>
+I work across the data lifecycle — from acquiring and structuring raw data to validating, transforming, and analyzing it before it is used to build solutions.
 
-<img src="./Assets/divider.svg" width="100%"/>
+My focus is on understanding **why a system works**, how data can fail within it, and how to make the resulting workflow reliable enough to build on.
 
-## 🧠 About Me
+I'm currently strengthening my Python, SQL, statistical, and data engineering foundations while moving toward **machine learning and eventually deployed ML systems**.
 
-I'm a **Computer Science student** working toward becoming a **Machine Learning Engineer** — not by rushing through tutorials, but by understanding *why* a concept exists before learning *how* to use it.
+* 🔭 Currently building an end-to-end **medical analytics pipeline** — `PostgreSQL → dbt → Power BI`
+* 🌱 Learning **ML algorithms, model evaluation, and reliable ML data pipelines**
+* 🎯 Working toward **ML Engineering with a strong data and systems foundation**
+* 🧩 Strengthening programming and SQL problem-solving through **LeetCode**
 
-```
-╭──────────────────────────────────────╮
-│   Understanding before               │
-│   Implementation.                    │
-│                                       │
-│   Curiosity before                   │
-│   Completion.                        │
-╰──────────────────────────────────────╯
-```
+---
 
-Every project on this profile follows the same rules:
+### Featured Projects
 
-- Understand before memorizing
-- Explain every technical decision
-- Build projects instead of collecting certificates
-- Learn fundamentals before frameworks
-- Stay consistent — one step every day
+**[🏥 Medical Analytics Pipeline](https://github.com/huzaifa-khan-AiMl)** — *In Progress*
+End-to-end analytics pipeline moving raw medical data through **PostgreSQL storage → dbt transformation layers → Power BI**. The workflow is being structured to produce clean, reusable data for a future ML anomaly-detection project.
 
-<img src="./Assets/divider.svg" width="100%"/>
+`Python` `PostgreSQL` `dbt` `Docker` `Power BI`
 
-## 💻 Terminal
+---
 
-<div align="center">
-<img src="./Assets/terminal-sigil.svg" width="100%"/>
-</div>
+**[🏦 Banking Data Engineering & EDA](https://github.com/huzaifa-khan-AiMl/Banking-SQL-Data-Engineering)**
+Designed a relational PostgreSQL schema from six source datasets, loaded and validated the data, and used advanced SQL and cross-table analysis to investigate integrity and distribution issues. The investigation found characteristics consistent with a **synthetically generated dataset**.
 
-<img src="./Assets/divider.svg" width="100%"/>
+`PostgreSQL` `Advanced SQL` `Schema Design` `Data Validation` `Statistical Analysis`
 
-## 📈 Roadmap
+---
 
-<div align="center">
-<img src="./Assets/roadmap.svg" width="100%"/>
-</div>
+**[📈 Apple Market Impact Analysis](https://github.com/huzaifa-khan-AiMl/Financial-Supply-Chain-Ripple-Analysis)**
+Investigated Apple's **2018 market shock** across the company, upstream suppliers, and the broader technology sector. Built the dataset from raw `yfinance` API data and used time-series analysis, correlation analysis, and SQL to distinguish company-specific movement from broader sector effects.
 
-<img src="./Assets/divider.svg" width="100%"/>
+`Python` `yfinance` `PostgreSQL` `SQL` `Time-Series Analysis`
 
-## 🛠 Tech Stack
+---
 
-<div align="center">
+**[🚗 Used Car Market Analysis](https://github.com/huzaifa-khan-AiMl/Used-Car-Market-Analysis-with-Python)**
+Performed exploratory analysis and feature engineering on a **42,000+ row automotive dataset**, transforming raw listings into a structured, fully numeric dataset suitable for downstream machine-learning work.
 
-**Languages & Core**
+`Python` `Pandas` `NumPy` `EDA` `Feature Engineering`
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
+---
 
-**Data Analysis**
+### Technical Skills
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,vscode"/>
+**Languages**
+`Python` `SQL` `C++`
 
-**Environment**
+**Data Analysis & Statistics**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Statistical Analysis` `EDA` `Feature Engineering`
 
-<img src="https://skillicons.dev/icons?i=linux,anaconda"/>
+**Databases & Data Engineering**
+`PostgreSQL` `MySQL` `Advanced SQL` `Relational Database Design` `Data Validation` `dbt`
 
-</div>
+**Analytics & Visualization**
+`Power BI` `Dashboard Development`
 
-**Currently learning:** SQL · Feature Engineering · Machine Learning
-**Up next:** Scikit-Learn · FastAPI · Docker · MLflow · AWS
+**Tools & Engineering**
+`Git` `GitHub` `Docker` `Jupyter` `VS Code`
 
-<img src="./Assets/divider.svg" width="100%"/>
+**Currently Learning**
+`Machine Learning` `scikit-learn` `Model Evaluation` `ML Data Pipelines` `Deployment` `MLOps`
 
-## 📌 Repositories
+---
 
-<div align="center">
+### Problem Solving
 
-<a href="https://github.com/huzaifa-khan-AiMl/Used-Car-Market-Analysis-with-Python"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Used-Car-Market-Analysis-with-Python&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
-<a href="https://github.com/huzaifa-khan-AiMl/Web-Scraper-Using-Python"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Web-Scraper-Using-Python&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
+**32 LeetCode problems solved**
 
-<a href="https://github.com/huzaifa-khan-AiMl/Automated-File-Organizer-using-Python"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Automated-File-Organizer-using-Python&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
-<a href="https://github.com/huzaifa-khan-AiMl/Python_LeetCode_Problems"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=Python_LeetCode_Problems&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
+`20 Python` · `12 MySQL`
 
-<a href="https://github.com/huzaifa-khan-AiMl/SQL_LeetCode_Problems"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-khan-AiMl&repo=SQL_LeetCode_Problems&theme=tokyonight&hide_border=true&bg_color=0A0E17"/></a>
+[View my LeetCode profile →](https://leetcode.com/u/Huzaifa_Khan_00/)
 
-</div>
+---
 
-<img src="./Assets/divider.svg" width="100%"/>
-
-## 🎯 Current Focus
-
-- Completing SQL
-- Second end-to-end EDA project
-- Machine Learning foundations
-- Growing this portfolio
-
-<img src="./Assets/divider.svg" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa-khan-AiMl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E17"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-khan-AiMl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E17"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-khan-AiMl&theme=tokyonight&hide_border=true&background=0A0E17"/>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=huzaifa-khan-AiMl&label=Profile+Views&color=20BEFF&style=flat" alt="Profile views"/>
-</div>
-
-<img src="./Assets/divider.svg" width="100%"/>
-
-## 🐍 Contribution Snake
-
+<p align="left">
+Contributions Snake
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake.svg" />
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
 <img src="./Assets/divider.svg" width="100%"/>
-
 <div align="center">
-
-**"Understanding before Implementation. Curiosity before Completion."**
-
-⭐ Thanks for visiting.
-
-</div>
+<i>Open to entry-level Data, Analytics, and ML-focused roles.</i>
+</p>
