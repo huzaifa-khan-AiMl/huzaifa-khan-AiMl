@@ -1,4 +1,4 @@
-<h1 align="center">Huzaifa Khan</h1>
+<h1 align="center">Muhammad Huzaifa Khan</h1>
 
 <p align="center">
 Computer Science student building toward <b>Machine Learning Engineering</b> through a deliberate foundation in <b>data analytics, data engineering, and statistical thinking</b>.
@@ -20,10 +20,10 @@ My focus is on understanding **why a system works**, how data can fail within it
 
 I'm currently strengthening my Python, SQL, statistical, and data engineering foundations while moving toward **machine learning and eventually deployed ML systems**.
 
-* 🔭 Currently building an end-to-end **medical analytics pipeline** — `PostgreSQL → dbt → Power BI`
-* 🌱 Learning **ML algorithms, model evaluation, and reliable ML data pipelines**
-* 🎯 Working toward **ML Engineering with a strong data and systems foundation**
-* 🧩 Strengthening programming and SQL problem-solving through **LeetCode**
+* Currently building an end-to-end **medical analytics pipeline** — `PostgreSQL → dbt → Power BI`
+* Learning **ML algorithms, model evaluation, and reliable ML data pipelines**
+* Working toward **ML Engineering with a strong data and systems foundation**
+* Strengthening programming and SQL problem-solving through **LeetCode**
 
 ---
 
@@ -90,7 +90,7 @@ Performed exploratory analysis and feature engineering on a **42,000+ row automo
 ---
 
 <p align="left">
-Contributions Snake
+<h2 align="left">Contributions</h2>
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifa-khan-AiMl/huzaifa-khan-AiMl/output/github-contribution-grid-snake-dark.svg" />
