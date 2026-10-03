@@ -29,8 +29,8 @@ I'm currently strengthening my Python, SQL, statistical, and data engineering fo
 
 ### Featured Projects
 
-**[🏥 Medical Analytics Pipeline](https://github.com/huzaifa-khan-AiMl)** — *In Progress*
-End-to-end analytics pipeline moving raw medical data through **PostgreSQL storage → dbt transformation layers → Power BI**. The workflow is being structured to produce clean, reusable data for a future ML anomaly-detection project.
+**[🏥 Medical Analytics Pipeline](https://github.com/huzaifa-khan-AiMl/healthcare-provider-performance-pipeline)** — *In Progress*
+End-to-end analytics pipeline moving raw medical data through **PostgreSQL storage → dbt transformation layers → Docker → Power BI**. The workflow is being structured to produce a clean, reusable data pipeline dashboard.
 
 `Python` `PostgreSQL` `dbt` `Docker` `Power BI`
 
